@@ -36,6 +36,7 @@
 - ![image](https://github.com/davi-mendes/bad_usb_help/assets/16890095/234e30db-71a3-4505-afcd-a3c5379b2b8b)
 - Troque de PORTA FISICA usb.
 - Cabos ou HUB.
+- Driver correto, 32 ou 64 bits.
 
   
 > [!TIP]
