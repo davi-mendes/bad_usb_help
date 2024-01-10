@@ -35,7 +35,7 @@
 - Caso a placa não conectar reveja as PORTAS.
 - ![image](https://github.com/davi-mendes/bad_usb_help/assets/16890095/234e30db-71a3-4505-afcd-a3c5379b2b8b)
 - Troque de PORTA FISICA usb.
-- Cabos ou HUB.
+- Cabos ou HUB. (Tive problemas com isto)
 - Driver correto, 32 ou 64 bits.
 
   
@@ -48,4 +48,16 @@
 ![image](https://github.com/davi-mendes/bad_usb_help/assets/16890095/8aa0bcd8-27e0-48b2-b50a-4e67b712f44a)
 ![image](https://github.com/davi-mendes/bad_usb_help/assets/16890095/5fc01166-36cc-4c81-9d0a-64cd803e7d75)
 
+
+> [!TIP]
+> CASES - Digispark.
+- https://www.thingiverse.com/thing:3898373
+- https://www.stlfinder.com/model/digispark-case-1tgBcjh1/2533049/
+- https://www.thingiverse.com/thing:2347216/remixes
+- (Curti este pois é compacto e tem furo para prender em algo)
+- https://www.printables.com/en/model/394991-case-for-digispark-v3#preview:file-nRwVE
+- (Boa porém acredito que selando mais a placa para não entrar sujeira e gordura pode ser melhor)
+- https://www.thingiverse.com/thing:2182039
+- https://www.thingiverse.com/thing:3700609
+- 
 
