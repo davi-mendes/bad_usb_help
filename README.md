@@ -50,14 +50,20 @@
 
 
 > [!TIP]
-> CASES - Digispark.
+> CASES - Digispark entrada USB.
 - https://www.thingiverse.com/thing:3898373
-- https://www.stlfinder.com/model/digispark-case-1tgBcjh1/2533049/
 - https://www.thingiverse.com/thing:2347216/remixes
 - (Curti este pois é compacto e tem furo para prender em algo)
 - https://www.printables.com/en/model/394991-case-for-digispark-v3#preview:file-nRwVE
 - (Boa porém acredito que selando mais a placa para não entrar sujeira e gordura pode ser melhor)
 - https://www.thingiverse.com/thing:2182039
 - https://www.thingiverse.com/thing:3700609
+- https://www.thingiverse.com/thing:38891
+- https://www.thingiverse.com/thing:3494815
+- https://www.thingiverse.com/thing:901543 (Adaptação para tecla unica keyboard)
+> CASES - Digispark entrada TIPO C.
+- https://www.thingiverse.com/thing:1172735
+> Cases - Digispark USB adaptador HAT para M5StickC  (Incrível saber que tem)
+> https://www.thingiverse.com/thing:4045319
 - 
 
