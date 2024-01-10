@@ -29,8 +29,14 @@
 > [!NOTE]
 > - Informações sobre WIN (Win + R é magico).
 
-	- https://support.microsoft.com/pt-br/topic/como-executar-as-ferramentas-do-painel-de-controle-digitando-um-comando-bce95b4d-e8c2-1cd0-ee0d-027679d520a6
- 	- https://answers.microsoft.com/pt-br/windows/forum/all/lista-de-comandos-para-acesso-r%C3%A1pido-de/e234faf7-5f5e-4d44-93cd-5177ce37d336
+https://support.microsoft.com/pt-br/topic/como-executar-as-ferramentas-do-painel-de-controle-digitando-um-comando-bce95b4d-e8c2-1cd0-ee0d-027679d520a6
+ 
+https://answers.microsoft.com/pt-br/windows/forum/all/lista-de-comandos-para-acesso-r%C3%A1pido-de/e234faf7-5f5e-4d44-93cd-5177ce37d336
+  
+Para apagar histórico do WIN + R e limpar rastros - Win + R e regedit, ir a este caminho e só não apagar o PADRÃO.
+
+  	Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+  
 
  > [!CAUTION]
 > Problemas
