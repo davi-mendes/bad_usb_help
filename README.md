@@ -36,7 +36,18 @@ https://answers.microsoft.com/pt-br/windows/forum/all/lista-de-comandos-para-ace
 Para apagar histórico do WIN + R e limpar rastros - Win + R e regedit, ir a este caminho e só não apagar o PADRÃO.
 
   	Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
-  
+Apagar history do powershell (Não sempre)
+
+	Clear-History
+Limpar realmente o rastro do histórico de PowerShell 
+
+	Get-PSReadLineOption
+Pega o local que tem o .txt e apaga o arquivo ou edita.
+
+Limpar histórico no CMD.
+
+	Alt + F7
+
 
  > [!CAUTION]
 > Problemas
